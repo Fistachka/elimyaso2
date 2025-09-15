@@ -34,4 +34,6 @@ Eli myaso muzhiki
 Pivom zapivali
 O chyom konyuh govoril
 Oni ne ponimali<br><br>
+![з4](https://github.com/user-attachments/assets/50c7dbab-35a7-4240-bb7c-d24b249a7173)
+![з3](https://github.com/user-attachments/assets/7dca9408-71e5-4f01-87de-11243ae07668)
 
