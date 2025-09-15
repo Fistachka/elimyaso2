@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>elimyaso2</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="elimyaso3"/>
   <readme>
     <ru>d4f0b959319cadb54a39906d83d2de30d8ac4a20be6075054ea5a868c1dd3f29</ru>
@@ -126,7 +126,8 @@
       <note number="4" values="28" ticks="379" durationTicks="74" ppq="96" velocity="0.852"/>
       <note number="5" values="28" ticks="478" durationTicks="48" ppq="96" velocity="0.906"/>
       <note number="6" values="68" ticks="573" durationTicks="233" ppq="96" velocity="0.835"/>
-      <note number="7" values="58" ticks="815" durationTicks="222" ppq="96" velocity="0.835"/>
+      <note number="7" values="58" ticks="815" durationTicks="123" ppq="96" velocity="0.835"/>
+      <note number="8" values="58" ticks="958" durationTicks="222" ppq="96" velocity="0.835"/>
     </notes>
   </exercise>
   <exercise number="9">
