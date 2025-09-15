@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>elimyaso2</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="Fistachka" repo="elimyaso2"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="Fistachka" repo="elimyaso3"/>
   <readme>
-    <ru>83284ee73f42b256d7393b2a58a13fbbd9cb927cb2ecc60737dc07e6f3b92bb3</ru>
-    <en>7cd9b45e8a13eee0a7ec0c219875db728aab286238bfe10a172656b4af4d9d4b</en>
+    <ru>d4f0b959319cadb54a39906d83d2de30d8ac4a20be6075054ea5a868c1dd3f29</ru>
+    <en>4122236cab7592000b6109682a843b20f80102b4b89fc6e8fc5d13abf567bb4c</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
