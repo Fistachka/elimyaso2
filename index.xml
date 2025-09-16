@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>elimyaso2</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="Fistachka" repo="elimyaso3"/>
   <readme>
     <ru>d4f0b959319cadb54a39906d83d2de30d8ac4a20be6075054ea5a868c1dd3f29</ru>
@@ -92,11 +92,11 @@
     <tonalities>10</tonalities>
     <video name="17t.mp4" size="2089772" type="video/mp4" volume="0.5">8b659ad86ca37a2c6e95532ebcbfa464bfc9f390087b70273f1492a377f47986</video>
     <notes>
-      <note number="1" values="18" ticks="64" durationTicks="66" ppq="96" velocity="0.843"/>
-      <note number="2" values="28" ticks="158" durationTicks="161" ppq="96" velocity="0.906"/>
-      <note number="3" values="38" ticks="337" durationTicks="152" ppq="96" velocity="0.862"/>
-      <note number="4" values="38" ticks="527" durationTicks="71" ppq="96" velocity="0.932"/>
-      <note number="5" values="38" ticks="602" durationTicks="47" ppq="96" velocity="0.842"/>
+      <note number="1" values="18" ticks="97" durationTicks="75" ppq="96" velocity="0.843"/>
+      <note number="2" values="28" ticks="193" durationTicks="90" ppq="96" velocity="0.906"/>
+      <note number="3" values="38" ticks="291" durationTicks="152" ppq="96" velocity="0.862"/>
+      <note number="4" values="28" ticks="481" durationTicks="143" ppq="96" velocity="0.932"/>
+      <note number="5" values="18" ticks="664" durationTicks="118" ppq="96" velocity="0.842"/>
     </notes>
   </exercise>
   <exercise number="7">
