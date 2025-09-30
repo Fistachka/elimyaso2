@@ -5,7 +5,7 @@
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/WHS43c0k3Mc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K77W1KLLbak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfHVBOyRjfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 "Я узнал недавно, все вы, как ни странно
 Конюх хриплым голосом проговорил
@@ -25,7 +25,7 @@
 ![з4](https://github.com/user-attachments/assets/50c7dbab-35a7-4240-bb7c-d24b249a7173)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ieWOxAAQS80" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U0Q4V2NwZ5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NH4jqRdZm3k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 "YA uznal nedavno, vse vy, kak ni stranno
 Konyuh hriplym golosom progovoril
